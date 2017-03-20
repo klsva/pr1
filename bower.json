@@ -1,0 +1,22 @@
+{
+  "name": "practice1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "klsva"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "isotope": "^3.0.3"
+  }
+}
